@@ -11,9 +11,9 @@ html,body{
     max-width: 320px;
     margin: auto;
 }
-.img {
-    width: 150px;
-    margin: 0 auto;
+#img {
+    width: 100%;
+    margin-top: 35px;
 }
 
 input {
